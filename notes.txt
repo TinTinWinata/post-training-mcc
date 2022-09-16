@@ -1,6 +1,10 @@
+Akan memakai nodemon -> monitoring perubahaan pada node
+
 npx express-generator --view=ejs
 npm install
 npm i nodemon
+
+setelah install ganti configurasi pada package json
 
 mysql
 ===========
